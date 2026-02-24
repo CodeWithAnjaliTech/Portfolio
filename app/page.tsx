@@ -120,7 +120,7 @@ export default function Portfolio() {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.6, duration: 0.8 }}
             >
-              A passionate and detail-oriented software engineer with over 3+ years of experience in full-stack web
+              A passionate and detail-oriented software engineer with over 4+ years of experience in full-stack web
               development, specializing in MongoDB, Express, React and Node.js. Adept at creating high-performance
               applications and implementing secure, scalable solutions.
             </motion.p>
