@@ -205,7 +205,7 @@ export default function Portfolio() {
             <ScrollReveal direction="left" className="mb-6">
               <p className="text-gray-700">
                 I'm a Software Engineer with a passion for creating efficient, user-friendly web applications. With over
-                3 years of experience in full-stack development, I specialize in the MERN stack (MongoDB, Express,
+                4 years of experience in full-stack development, I specialize in the MERN stack (MongoDB, Express,
                 React, Node.js), building responsive and performant web solutions.
               </p>
             </ScrollReveal>
